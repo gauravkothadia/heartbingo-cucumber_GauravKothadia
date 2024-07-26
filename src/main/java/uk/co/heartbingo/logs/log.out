@@ -1,0 +1,76 @@
+2024-07-21 21:07:794 INFO  HomePage :30 - Clicking on cookies consent Accept All button.
+2024-07-21 21:07:197 INFO  HomePage :35 - Clicking on Categories link.
+2024-07-21 21:07:472 INFO  HomePage :42 - Clicked on the feature tage Jackpot
+2024-07-21 21:07:630 INFO  HomePage :34 - Clicking on cookies consent Accept All button.
+2024-07-21 21:07:141 INFO  HomePage :39 - Clicking on Categories link.
+2024-07-21 21:07:414 INFO  HomePage :46 - Clicked on the feature tage Jackpot
+2024-07-21 21:07:933 INFO  HomePage :56 - Clicked on the button displaying Results
+2024-07-21 21:07:937 INFO  ResultPage :22 - Getting the Result header text for verification.
+2024-07-21 21:07:888 INFO  HomePage :34 - Clicking on cookies consent Accept All button.
+2024-07-21 21:07:312 INFO  HomePage :39 - Clicking on Categories link.
+2024-07-21 21:07:532 INFO  HomePage :46 - Clicked on the feature tage Jackpot
+2024-07-21 21:07:930 INFO  HomePage :56 - Clicked on the button displaying Results
+2024-07-21 21:07:936 INFO  ResultPage :22 - Getting the Result header text for verification.
+2024-07-21 21:07:71 INFO  ResultPage :27 - Getting the applied feature text for verification.
+2024-07-21 21:07:812 INFO  HomePage :34 - Clicking on cookies consent Accept All button.
+2024-07-21 21:07:297 INFO  HomePage :39 - Clicking on Categories link.
+2024-07-21 21:07:551 INFO  HomePage :46 - Clicked on the feature tage Jackpot
+2024-07-21 21:07:115 INFO  HomePage :56 - Clicked on the button displaying Results
+2024-07-21 21:07:444 INFO  ResultPage :23 - Getting the Result header text containing Results for verification.
+2024-07-21 21:07:477 INFO  ResultPage :29 - Getting the applied feature text displayed as Jackpot for verification.
+2024-07-21 21:07:166 INFO  HomePage :34 - Clicking on cookies consent Accept All button.
+2024-07-21 21:07:688 INFO  HomePage :39 - Clicking on Categories link.
+2024-07-21 21:07:867 INFO  HomePage :46 - Clicked on the feature tage Jackpot
+2024-07-21 21:07:270 INFO  HomePage :56 - Clicked on the button displaying Results
+2024-07-21 21:07:476 INFO  ResultPage :23 - Getting the Result header text containing "Results" for verification.
+2024-07-21 21:07:527 INFO  ResultPage :29 - Getting the applied feature text displayed as "Jackpot" for verification.
+2024-07-22 20:07:685 INFO  HomePage :34 - Clicking on cookies consent Accept All button.
+2024-07-22 20:07:134 INFO  HomePage :39 - Clicking on Categories link.
+2024-07-22 20:07:363 INFO  HomePage :46 - Clicked on the feature tage Jackpot
+2024-07-22 20:07:785 INFO  HomePage :56 - Clicked on the button displaying Results
+2024-07-22 20:07:112 INFO  ResultPage :23 - Getting the Result header text containing "Results" for verification.
+2024-07-22 20:07:145 INFO  ResultPage :29 - Getting the applied feature text displayed as "Jackpot" for verification.
+2024-07-23 19:07:529 INFO  HomePage :42 - Clicking on cookies consent Accept All button.
+2024-07-23 19:07:265 INFO  HomePage :42 - Clicking on cookies consent Accept All button.
+2024-07-23 19:07:812 INFO  HomePage :46 - Clicking on cookies consent Accept All button.
+2024-07-23 19:07:275 INFO  HomePage :46 - Clicking on cookies consent Accept All button.
+2024-07-23 19:07:594 INFO  HomePage :46 - Clicking on cookies consent Accept All button.
+2024-07-23 19:07:169 INFO  HomePage :78 - Clicked on the button displaying Log In
+2024-07-23 19:07:283 INFO  HomePage :86 - Switching to Login Frame.
+2024-07-23 19:07:917 INFO  HomePage :46 - Clicking on cookies consent Accept All button.
+2024-07-23 19:07:573 INFO  HomePage :78 - Clicked on the button displaying Log In
+2024-07-23 19:07:519 INFO  HomePage :86 - Switching to Login Frame.
+2024-07-23 19:07:940 INFO  HomePage :46 - Clicking on cookies consent Accept All button.
+2024-07-23 19:07:475 INFO  HomePage :78 - Clicked on the button displaying Log In
+2024-07-23 19:07:519 INFO  HomePage :86 - Switching to Login Frame.
+2024-07-23 19:07:741 INFO  HomePage :91 - Getting login frame text "[[ChromeDriver: chrome on windows (cddba36a5ba97f695f2f1700752c973a)] -> xpath: //p[contains(@class,'login_formDescription')]]" for verification.
+2024-07-23 19:07:481 INFO  HomePage :46 - Clicking on cookies consent Accept All button.
+2024-07-23 19:07:905 INFO  HomePage :51 - Clicking on Categories link.
+2024-07-23 19:07:186 INFO  HomePage :58 - Clicked on the feature tage Jackpot
+2024-07-23 19:07:544 INFO  HomePage :68 - Clicked on the button displaying Results
+2024-07-23 19:07:853 INFO  ResultPage :23 - Getting the Result header text containing "Results" for verification.
+2024-07-23 19:07:894 INFO  ResultPage :29 - Getting the applied feature text displayed as "Jackpot" for verification.
+2024-07-23 19:07:865 INFO  HomePage :46 - Clicking on cookies consent Accept All button.
+2024-07-23 19:07:442 INFO  HomePage :78 - Clicked on the button displaying Log In
+2024-07-23 19:07:396 INFO  HomePage :86 - Switching to Login Frame.
+2024-07-23 19:07:641 INFO  HomePage :91 - Getting login frame text "[[ChromeDriver: chrome on windows (9b6eabc8a61c04a0f2d73e22348b5020)] -> xpath: //p[contains(@class,'login_formDescription')]]" for verification.
+2024-07-23 19:07:813 INFO  HomePage :46 - Clicking on cookies consent Accept All button.
+2024-07-23 19:07:236 INFO  HomePage :51 - Clicking on Categories link.
+2024-07-23 19:07:519 INFO  HomePage :58 - Clicked on the feature tage Jackpot
+2024-07-23 19:07:881 INFO  HomePage :68 - Clicked on the button displaying Results
+2024-07-23 19:07:13 INFO  ResultPage :23 - Getting the Result header text containing "Results" for verification.
+2024-07-23 19:07:54 INFO  ResultPage :29 - Getting the applied feature text displayed as "Jackpot" for verification.
+2024-07-23 19:07:687 INFO  HomePage :46 - Clicking on cookies consent Accept All button.
+2024-07-23 19:07:321 INFO  HomePage :78 - Clicked on the button displaying Log In
+2024-07-23 19:07:726 INFO  HomePage :86 - Switching to Login Frame.
+2024-07-23 19:07:190 INFO  HomePage :91 - Getting login frame text "Log In to start playing." for verification.
+2024-07-25 21:07:897 INFO  HomePage :46 - Clicking on cookies consent Accept All button.
+2024-07-25 21:07:322 INFO  HomePage :51 - Clicking on Categories link.
+2024-07-25 21:07:730 INFO  HomePage :58 - Clicked on the feature tage Jackpot
+2024-07-25 21:07:236 INFO  HomePage :68 - Clicked on the button displaying Results
+2024-07-25 21:07:707 INFO  ResultPage :23 - Getting the Result header text containing "Results" for verification.
+2024-07-25 21:07:740 INFO  ResultPage :29 - Getting the applied feature text displayed as "Jackpot" for verification.
+2024-07-25 21:07:996 INFO  HomePage :46 - Clicking on cookies consent Accept All button.
+2024-07-25 21:07:532 INFO  HomePage :78 - Clicked on the button displaying Log In
+2024-07-25 21:07:218 INFO  HomePage :86 - Switching to Login Frame.
+2024-07-25 21:07:396 INFO  HomePage :91 - Getting login frame text "Log In to start playing." for verification.
